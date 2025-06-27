@@ -1,0 +1,88 @@
+{
+    "activeFile": "TX Player.tsx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "FieldsTile_38.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "FieldsTileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Games/assets/TX Plant.tsx": {
+            "scaleInDock": 1
+        },
+        "Games/assets/TX Player.tsx": {
+            "scaleInDock": 1
+        },
+        "Games/assets/TX Props.tsx": {
+            "scaleInDock": 1
+        },
+        "Games/assets/TX Tileset Grass.tsx": {
+            "scaleInDock": 1
+        },
+        "Ground - dark.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TX Plant.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TX Player.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TX Props.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TX Tileset Grass.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "firstMap.tmx": {
+            "scale": 1.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 518.2857142857143,
+                "y": 312
+            }
+        },
+        "plains.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "plains2.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        }
+    },
+    "openFiles": [
+        "firstMap.tmx",
+        "TX Player.tsx",
+        "TX Plant.tsx",
+        "TX Props.tsx",
+        "TX Tileset Grass.tsx"
+    ],
+    "recentFiles": [
+        "firstMap.tmx",
+        "TX Tileset Grass.tsx",
+        "TX Props.tsx",
+        "TX Plant.tsx",
+        "TX Player.tsx",
+        "plains.tsx",
+        "Ground - dark.tsx",
+        "plains2.tsx",
+        "FieldsTile_38.tsx",
+        "FieldsTileset.tsx"
+    ]
+}
